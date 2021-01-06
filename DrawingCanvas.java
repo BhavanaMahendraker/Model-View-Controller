@@ -1,9 +1,5 @@
 /* 
  * Assignment 3 - CS 151
- * Adeel Javed
- * Alaa Salim
- * Bhavana 
- * Alan Rodriguez 
  */
 import javax.swing.*;
 import java.util.*;
